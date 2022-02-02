@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">aop-part2-chapter2</string>
+    <string name="bt_add_number">번호 추가하기</string>
+</resources>
